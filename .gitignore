@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+raw_input.txt
+raw_output.txt
+wordlist.txt
+wordlist2.txt
+avail.txt
+checked.txt
+demo.txt
+results/
